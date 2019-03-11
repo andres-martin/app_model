@@ -1,24 +1,15 @@
-# README
+# Mi primer modelo
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+En este proyecto de Rails, incluimos un modelo llamado Movie con los siguientes parámetros:
 
-Things you may want to cover:
+* name
 
-* Ruby version
+* duration
 
-* System dependencies
+* year
 
-* Configuration
+* rating
 
-* Database creation
+* description
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* image_url
